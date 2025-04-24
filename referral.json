@@ -1,11 +1,5 @@
 [
   {
-    "title" : "Depin 프로젝트 모음",
-    "url" : "https://hail-umbra-75d.notion.site/Depin-1da927a3db45803d8bf8e4169085e9a5?pvs=73",
-    "imageUrl" : "",
-    "type": "depin"
-  },
-  {
     "title" : "UpRock",
     "url" : "https://hail-umbra-75d.notion.site/UPRock-1da927a3db4580479d3ccaac2a577ae2",
     "imageUrl" : "",
@@ -70,11 +64,5 @@
     "url" : "https://hail-umbra-75d.notion.site/Sato-Cash-1da927a3db4580e1a3d4db22913bec7c?pvs=4",
     "imageUrl" : "",
     "type": "app"
-  },
-  {
-    "title" : "Drops",
-    "url" : "https://hail-umbra-75d.notion.site/Drops-1da927a3db458040b22cdd853d16ba43?pvs=4",
-    "imageUrl" : "",
-    "type": "tg"
   }
 ]
